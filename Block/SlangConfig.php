@@ -1,6 +1,6 @@
 <?php
 
-namespace immohsin\magento2\Block;
+namespace Immohsin\Magento2\Block;
 
 use Magento\Store\Model\ScopeInterface;
 

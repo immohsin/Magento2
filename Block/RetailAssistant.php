@@ -1,8 +1,8 @@
 <?php
 
-namespace immohsin\magento2\Block;
+namespace Immohsin\Magento2\Block;
 
-use immohsin\magento2\Block\SlangConfig;
+use Immohsin\Magento2\Block\SlangConfig;
 
 
 class RetailAssistant extends \Magento\Framework\View\Element\Template

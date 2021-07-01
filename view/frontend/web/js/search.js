@@ -1,5 +1,5 @@
 define([
-    "immohsin_magento2/js/slang",
+    "Immohsin_Magento2/js/slang",
 ], function(){
         "use strict";
         return function(config) {

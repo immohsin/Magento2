@@ -1,7 +1,7 @@
 var config = {
     map: {
         '*': {
-            'search':'immohsin_magento2/js/search'
+            'search':'Immohsin_Magento2/js/search'
         }
     }
 };

@@ -1,6 +1,6 @@
 <?php
 
-namespace immohsin\magento2\Model\Source;
+namespace Immohsin\Magento2\Model\Source;
 
 class MultiSelectLangCodes implements \Magento\Framework\Data\OptionSourceInterface
 {
