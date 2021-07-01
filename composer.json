@@ -27,7 +27,7 @@
     "autoload": {
       "files": [ "registration.php" ],
       "psr-4": {
-        "immohsin\\magento2\\": ""
+        "Immohsin\\Magento2\\": ""
       }
     }
   }
